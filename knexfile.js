@@ -3,9 +3,9 @@
 module.exports = {
     client: 'postgresql',
     connection: {
-      database: 'teste_adonis',
-      user:     'postgres',
-      password: '12345678'
+      database: '',
+      user:     '',
+      password: ''
     },
     pool: {
       min: 2,
